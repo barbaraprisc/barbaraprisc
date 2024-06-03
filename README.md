@@ -3,7 +3,7 @@
 
  ### 💮 Meu nome é Bárbara Priscila 💮
 
- - Atuaalmente estou cursando na [Alura](https://www.alura.com.br)
+ - Atualmente estou cursando na [Alura](https://www.alura.com.br)
  - Estou me desenvolvendo na linguagem JavaScript
  - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvios
 
